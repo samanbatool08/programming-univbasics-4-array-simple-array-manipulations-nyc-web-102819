@@ -10,3 +10,6 @@ def artists [ "Frida Kahlo" , "Pablo Picasso" , "Car Guo-Qiang"]
 end
 
 p artists
+
+def array(array)
+  
