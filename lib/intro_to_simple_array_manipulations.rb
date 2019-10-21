@@ -4,3 +4,9 @@ def artists = [ "Hozier" , "Ariana Grande" , "Usher" ]
 end
 
 p artists
+
+def artists [ "Frida Kahlo" , "Pablo Picasso" , "Car Guo-Qiang"]
+  artists.pop
+end
+
+p artists
